@@ -1,4 +1,3 @@
-```markdown
 # Cat vs Dog Classifier 🐱🐶  
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
@@ -66,6 +65,3 @@ python app.py
 
 📡 **API is live at:** [https://shamik007-cvd.hf.space/](https://shamik007-cvd.hf.space/)  
 🚀 **Made by [Shamik](https://github.com/Shamik200)**  
-```
-
-Now you can **copy and paste** this directly into your `README.md` file without issues. Let me know if you need modifications! 🚀
